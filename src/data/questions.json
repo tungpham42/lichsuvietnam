@@ -1,0 +1,266 @@
+[
+  {
+    "id": 1,
+    "question": "Ai là người được xem như vua đầu tiên của nhà nước Văn Lang?",
+    "options": ["Hùng Vương", "An Dương Vương", "Lạc Long Quân", "Ngô Quyền"],
+    "answer": "Hùng Vương"
+  },
+  {
+    "id": 2,
+    "question": "Ai là người xây dựng thành Cổ Loa?",
+    "options": ["Hùng Vương", "An Dương Vương", "Ngô Quyền", "Triệu Đà"],
+    "answer": "An Dương Vương"
+  },
+  {
+    "id": 3,
+    "question": "Nhà nước Âu Lạc bị diệt vong bởi ai?",
+    "options": ["Ngô Quyền", "Triệu Đà", "Lạc Long Quân", "An Dương Vương"],
+    "answer": "Triệu Đà"
+  },
+  {
+    "id": 4,
+    "question": "Hai Bà Trưng đã lãnh đạo khởi nghĩa chống lại triều đại nào?",
+    "options": ["Nhà Tần", "Nhà Hán", "Nhà Đường", "Nhà Tống"],
+    "answer": "Nhà Hán"
+  },
+  {
+    "id": 5,
+    "question": "Ai là người lãnh đạo khởi nghĩa chống quân Đông Ngô?",
+    "options": ["Hai Bà Trưng", "Bà Triệu", "An Dương Vương", "Ngô Quyền"],
+    "answer": "Bà Triệu"
+  },
+  {
+    "id": 6,
+    "question": "Lý Bí đã thành lập triều đại nào sau khi lãnh đạo cuộc khởi nghĩa chống nhà Lương?",
+    "options": ["Nhà Lý", "Nhà Triệu", "Nhà Tiền Lý", "Nhà Ngô"],
+    "answer": "Nhà Tiền Lý"
+  },
+  {
+    "id": 7,
+    "question": "Mai Thúc Loan đã lãnh đạo cuộc khởi nghĩa chống lại triều đại nào?",
+    "options": ["Nhà Đường", "Nhà Tống", "Nhà Hán", "Nhà Tần"],
+    "answer": "Nhà Đường"
+  },
+  {
+    "id": 8,
+    "question": "Phùng Hưng đã lãnh đạo cuộc khởi nghĩa chống lại triều đại nào?",
+    "options": ["Nhà Đường", "Nhà Tống", "Nhà Hán", "Nhà Tần"],
+    "answer": "Nhà Đường"
+  },
+  {
+    "id": 9,
+    "question": "Năm 938, trận Bạch Đằng Giang do ai chỉ huy?",
+    "options": ["Trần Hưng Đạo", "Ngô Quyền", "Lý Thái Tổ", "Nguyễn Huệ"],
+    "answer": "Ngô Quyền"
+  },
+  {
+    "id": 10,
+    "question": "Vị vua nào đã sáng lập triều đại nhà Lý?",
+    "options": ["Lý Anh Tông", "Lý Thái Tổ", "Lý Thánh Tông", "Lý Cao Tông"],
+    "answer": "Lý Thái Tổ"
+  },
+  {
+    "id": 11,
+    "question": "Ai là người lãnh đạo phong trào khởi nghĩa chống quân Tống?",
+    "options": ["Trần Hưng Đạo", "Lý Thường Kiệt", "Nguyễn Trãi", "Lê Lợi"],
+    "answer": "Lý Thường Kiệt"
+  },
+  {
+    "id": 12,
+    "question": "Vị vua nào sáng lập triều đại nhà Trần?",
+    "options": [
+      "Trần Nhân Tông",
+      "Trần Anh Tông",
+      "Trần Minh Tông",
+      "Trần Thái Tông"
+    ],
+    "answer": "Trần Thái Tông"
+  },
+  {
+    "id": 13,
+    "question": "Ai là người lãnh đạo phong trào kháng chiến chống quân xâm lược Mông Cổ?",
+    "options": [
+      "Nguyễn Huệ",
+      "Trần Hưng Đạo",
+      "Lý Thường Kiệt",
+      "Võ Nguyên Giáp"
+    ],
+    "answer": "Trần Hưng Đạo"
+  },
+  {
+    "id": 14,
+    "question": "Ai là người sáng lập triều đại nhà Hồ?",
+    "options": ["Lý Thái Tổ", "Trần Thái Tông", "Hồ Quý Ly", "Nguyễn Ánh"],
+    "answer": "Hồ Quý Ly"
+  },
+  {
+    "id": 15,
+    "question": "Vị vua nào sáng lập triều đại nhà Tây Sơn?",
+    "options": ["Nguyễn Ánh", "Lê Lợi", "Nguyễn Huệ", "Trần Thái Tông"],
+    "answer": "Nguyễn Huệ"
+  },
+  {
+    "id": 16,
+    "question": "Ai là người sáng lập triều đại nhà Nguyễn?",
+    "options": ["Nguyễn Huệ", "Nguyễn Ánh", "Nguyễn Trãi", "Nguyễn Bỉnh Khiêm"],
+    "answer": "Nguyễn Ánh"
+  },
+  {
+    "id": 17,
+    "question": "Năm 1945, sự kiện lịch sử quan trọng nào đã xảy ra?",
+    "options": [
+      "Chiến thắng Điện Biên Phủ",
+      "Hiệp định Geneva",
+      "Cách mạng tháng Tám",
+      "Cải cách ruộng đất"
+    ],
+    "answer": "Cách mạng tháng Tám"
+  },
+  {
+    "id": 18,
+    "question": "Ai là người chỉ huy quân đội trong chiến dịch Điện Biên Phủ?",
+    "options": [
+      "Tướng Lê Duẩn",
+      "Tướng Võ Nguyên Giáp",
+      "Tướng Trần Hưng Đạo",
+      "Tướng Nguyễn Văn Cốc"
+    ],
+    "answer": "Tướng Võ Nguyên Giáp"
+  },
+  {
+    "id": 19,
+    "question": "Ai là người lãnh đạo cuộc kháng chiến chống Mỹ?",
+    "options": ["Nguyễn Trãi", "Lê Duẩn", "Hồ Chí Minh", "Phan Bội Châu"],
+    "answer": "Hồ Chí Minh"
+  },
+  {
+    "id": 20,
+    "question": "Năm 1975, chiến thắng nào đánh dấu sự thống nhất đất nước Việt Nam?",
+    "options": [
+      "Chiến thắng Điện Biên Phủ",
+      "Cuộc kháng chiến chống Mỹ",
+      "Chiến dịch Hồ Chí Minh",
+      "Hiệp định Paris"
+    ],
+    "answer": "Chiến dịch Hồ Chí Minh"
+  },
+  {
+    "id": 21,
+    "question": "Sự kiện nào dẫn đến cuộc chiến tranh giữa Việt Nam và Trung Quốc năm 1979?",
+    "options": [
+      "Trận chiến Bạch Đằng Giang",
+      "Chiến tranh biên giới năm 1979",
+      "Hiệp định Paris",
+      "Cải cách ruộng đất"
+    ],
+    "answer": "Chiến tranh biên giới năm 1979"
+  },
+  {
+    "id": 22,
+    "question": "Sự kiện nào được tổ chức vào ngày 2/7/1976?",
+    "options": [
+      "Cách mạng tháng Tám",
+      "Thống nhất đất nước",
+      "Đổi tên nước thành Cộng hòa Xã hội Chủ nghĩa Việt Nam",
+      "Chiến thắng Điện Biên Phủ"
+    ],
+    "answer": "Đổi tên nước thành Cộng hòa Xã hội Chủ nghĩa Việt Nam"
+  },
+  {
+    "id": 23,
+    "question": "Năm 1978, sự kiện nào đánh dấu việc Việt Nam bắt đầu chiến tranh chống Khmer Đỏ?",
+    "options": [
+      "Chiến dịch Tây Nguyên",
+      "Cuộc chiến tranh biên giới Tây Nam",
+      "Chiến tranh biên giới phía Bắc",
+      "Chiến dịch Hồ Chí Minh"
+    ],
+    "answer": "Cuộc chiến tranh biên giới Tây Nam"
+  },
+  {
+    "id": 24,
+    "question": "Chiến tranh bảo vệ hải đảo tại Trường Sa diễn ra vào năm nào?",
+    "options": ["1974", "1988", "1992", "1975"],
+    "answer": "1988"
+  },
+  {
+    "id": 25,
+    "question": "Năm 1986, Đại hội Đảng lần thứ VI đã khởi xướng chính sách gì?",
+    "options": [
+      "Đổi mới",
+      "Thống nhất đất nước",
+      "Cải cách ruộng đất",
+      "Kháng chiến chống Mỹ"
+    ],
+    "answer": "Đổi mới"
+  },
+  {
+    "id": 26,
+    "question": "Chính sách Đổi mới năm 1986 tập trung vào lĩnh vực nào?",
+    "options": ["Kinh tế", "Chính trị", "Quân sự", "Giáo dục"],
+    "answer": "Kinh tế"
+  },
+  {
+    "id": 27,
+    "question": "Sự kiện nào diễn ra vào năm 1995, đánh dấu bước tiến lớn của Việt Nam trong hội nhập quốc tế?",
+    "options": [
+      "Gia nhập ASEAN",
+      "Ký Hiệp định Geneva",
+      "Gia nhập WTO",
+      "Hiệp định Paris"
+    ],
+    "answer": "Gia nhập ASEAN"
+  },
+  {
+    "id": 28,
+    "question": "Việt Nam gia nhập Tổ chức Thương mại Thế giới (WTO) vào năm nào?",
+    "options": ["1995", "2000", "2007", "2010"],
+    "answer": "2007"
+  },
+  {
+    "id": 29,
+    "question": "Hiến pháp năm 1992 của Việt Nam tập trung vào nội dung gì?",
+    "options": [
+      "Khẳng định nền kinh tế thị trường định hướng xã hội chủ nghĩa",
+      "Thống nhất đất nước",
+      "Kháng chiến chống Mỹ",
+      "Cải cách ruộng đất"
+    ],
+    "answer": "Khẳng định nền kinh tế thị trường định hướng xã hội chủ nghĩa"
+  },
+  {
+    "id": 30,
+    "question": "Năm 2010, sự kiện nào đánh dấu 1000 năm Thăng Long - Hà Nội?",
+    "options": [
+      "Khánh thành Lăng Chủ tịch Hồ Chí Minh",
+      "Lễ hội 1000 năm Thăng Long",
+      "Chiến thắng Điện Biên Phủ trên không",
+      "Khởi công xây dựng cầu Nhật Tân"
+    ],
+    "answer": "Lễ hội 1000 năm Thăng Long"
+  },
+  {
+    "id": 31,
+    "question": "Hiệp định Đối tác Toàn diện và Tiến bộ xuyên Thái Bình Dương (CPTPP) được Việt Nam ký kết vào năm nào?",
+    "options": ["2016", "2018", "2020", "2022"],
+    "answer": "2018"
+  },
+  {
+    "id": 32,
+    "question": "Luật Biển Việt Nam được Quốc hội thông qua vào năm nào?",
+    "options": ["2011", "2012", "2013", "2014"],
+    "answer": "2012"
+  },
+  {
+    "id": 33,
+    "question": "Việt Nam đảm nhiệm vai trò Chủ tịch ASEAN lần thứ hai vào năm nào?",
+    "options": ["2005", "2010", "2015", "2020"],
+    "answer": "2020"
+  },
+  {
+    "id": 34,
+    "question": "Chương trình Chuyển đổi số quốc gia của Việt Nam bắt đầu từ năm nào?",
+    "options": ["2019", "2020", "2021", "2022"],
+    "answer": "2020"
+  }
+]
